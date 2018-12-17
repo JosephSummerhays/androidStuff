@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">famServer</string>
+    <string name="server_host">Server Host:</string>
+    <string name="server_port">Server Port:</string>
+    <string name="username">User Name:</string>
+    <string name="password">Password:</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="email">Email:</string>
+    <string name="gender">Gender:</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="signin">Sign In</string>
+    <string name="register">Register</string>
+    <string name="failedToast">Server Request Failed!</string>
+    <string name="title_activity_junk">Mapicus</string>
+    <string name="showLifeEvents">LIFE EVENTS</string>
+    <string name="showFamily">FAMILY</string>
+</resources>
